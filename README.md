@@ -59,7 +59,3 @@ Follow the lecture guidelines, refer to the lecture video for more information a
 ```
 
 The gateway will be available at: `http://localhost:7000`
-
-## Need Help?
-
-If you encounter any issues, feel free to reach out and start a discussion via the Slack workspace.
